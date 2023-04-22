@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    overflow: hidden;
 }
 
 nav {
@@ -88,4 +87,48 @@ nav {
     color: white;
     background: #393646;
     font-size: 30px;
+}
+
+.text-about h1 {
+    display: block;
+    width: 400px;
+    margin-top: 250px;
+    margin-left: 300px;
+    font-size: 50px;
+}
+
+.text-about p {
+    width: 450px;
+    margin-top: 25px;
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.skills {
+    margin-left: 300px;
+    margin-top: 25px;
+    font-size: 40px;
+}
+
+.ul-skills {
+    margin-top: 20px;
+    margin-left: 325px;
+}
+
+.languages {
+    margin-left: 600px;
+    margin-top: -125px;
+    font-size: 40px;
+}
+
+.ul-languages {
+    margin-left: 625px;
+    margin-top: 20px;
+}
+
+.photo-about img {
+    width: 450px;
+    border-radius: 25px;
+    border: 2px solid #F4EEE0;
+    margin: 75px 250px;
 }
