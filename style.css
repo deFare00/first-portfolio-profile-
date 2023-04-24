@@ -132,3 +132,89 @@ nav {
     border: 2px solid #F4EEE0;
     margin: 75px 250px;
 }
+
+.card-instagram {
+    width: 400px;
+    background-color: #393646;
+    height: 300px;
+    border: 2px solid #F4EEE0;
+    border-radius: 50px;
+    margin-top: 250px;
+    margin-left: 150px;
+}
+
+.card-twitter {
+    width: 400px;
+    background-color: #393646;
+    height: 300px;
+    border: 2px solid #F4EEE0;
+    border-radius: 50px;
+    margin-top: 250px;
+}
+
+.card-linkedin {
+    width: 400px;
+    background-color: #393646;
+    height: 300px;
+    border: 2px solid #F4EEE0;
+    border-radius: 50px;
+    margin-top: 250px;
+    margin-right: 150px;
+}
+
+.card-instagram img {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.card-instagram h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.card-instagram h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.card-twitter img {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.card-twitter h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.card-twitter h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.card-linkedin img {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.card-linkedin h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.card-linkedin h2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+}
